@@ -1,0 +1,9 @@
+POST  {{baseUrl}}/data
+Authorization: Bearer {{ApiSecretKey}}
+Ocp-Apim-Subscription-Key: {{Subscription_Key}}
+Content-Type: application/json
+
+{"pgid":"4051",
+"oid":101,
+"userId":"HAVANA4051",
+"endDate":"12/10/2024"}

@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://dev-api.denticon.com/edi/api/v0.2/batchClaims/states?pgid=4051&oid=101&status=pending",
+        "Subscription_Key": "3b0bb510a57f4dbabed9304109a7594a",
+        "ApiSecretKey": "c0732c0622224594bed4cbcf28900a03"
+}
+  

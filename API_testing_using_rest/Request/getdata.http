@@ -1,0 +1,6 @@
+### Get Data from API
+GET {{baseUrl}}/data
+Authorization: Bearer {{ApiSecretKey}}
+Ocp-Apim-Subscription-Key: {{Subscription_Key}}
+Content-Type: application/json 
+//path={{file_path}}
