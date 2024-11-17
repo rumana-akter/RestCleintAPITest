@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Sun, 17 Nov 2024 19:38:09 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+request-context: appId=cid-v1:0f63a679-60a6-40ca-b3f3-1c40cb63a216
+
+{"isSuccess":true,"message":"Claims creation process has been initiated. Once completed, you will be notified."}
